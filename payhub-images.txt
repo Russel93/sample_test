@@ -1,0 +1,8 @@
+harbor.progressoft.io/alpha/bank-gateway:200226-a897fdd0
+harbor.progressoft.io/alpha/config:200302-858ae959
+harbor.progressoft.io/alpha/credit:200302-3a9d58cc
+harbor.progressoft.io/alpha/gateway:200302-3a649f60
+harbor.progressoft.io/alpha/ingestion:200226-9cbcb54f
+harbor.progressoft.io/alpha/approval-system:200302-21fb6164
+harbor.progressoft.io/alpha/payhub:200302-1caba7aa
+harbor.progressoft.io/alpha/swift:200302-069ff3c7
